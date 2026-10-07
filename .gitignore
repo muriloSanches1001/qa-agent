@@ -1,0 +1,12 @@
+node_modules/
+
+# Configuração local (credenciais) e contexto do projeto
+qa.config.json
+context/
+
+# Pastas geradas por ambiente (QA.md com credenciais, cases e relatórios)
+workspaces/
+
+# Arquivos de entrada para teste
+files/*
+!files/.gitkeep
