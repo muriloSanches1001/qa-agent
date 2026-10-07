@@ -1,7 +1,9 @@
 {
   "name": "qa-agent",
   "version": "1.0.0",
-  "description": "Agente de QA sobre o Antigravity CLI: testa a aplicação pelo navegador ou pela API e gera cases e relatórios.",
+  "description": "Cross-platform AI QA agent (Antigravity, Codex, Claude Code) that tests web apps through the browser or the API and delivers PASS/FAIL reports.",
+  "license": "MIT",
+  "author": "Murilo Oliveira Sanches",
   "private": true,
   "repository": {
     "type": "git",
